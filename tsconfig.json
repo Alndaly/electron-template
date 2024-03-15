@@ -1,0 +1,3 @@
+{
+  "extends": "@electron-template/typescript-config/base.json"
+}
